@@ -1,11 +1,11 @@
 ## Hi, I am Samuele Simone 👋
-
 <img src="me.png" alt="drawing" width="200"/>
 
 ### Bio
 * Mobile Dev
 * Keen on UI/UX
 * Computer Science Student
+> Currently into **Android Apps** & **Game Development**
 
 ### Contact
 * samuelesimonedev@gmail.com
