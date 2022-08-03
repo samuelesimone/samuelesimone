@@ -4,7 +4,7 @@
 ### Bio
 * Mobile Dev
 * Keen on UI/UX
-* Computer Science Student
+* BSc Computer Science 
 > Currently into **Android Apps** & **Game Development**
 
 ### Contact
