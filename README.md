@@ -5,7 +5,7 @@
 * Mobile Dev
 * Keen on UI/UX
 * BSc Computer Science 
-> Currently into **Android Apps** & **Game Development**
+> Currently into **iOS Apps** & **AI**
 
 ### Contact
 * samuelesimonedev@gmail.com
