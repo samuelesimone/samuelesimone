@@ -17,7 +17,6 @@
 `UI/UX Dev` `Adobe XD` `NodeJS`
 
 ### Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=samuelesimone&show_icons=true&count_private=true&theme=dracula)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelesimone&theme=dracula)](https://github.com/samuelesimone/github-readme-stats)
 
