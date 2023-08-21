@@ -16,9 +16,6 @@
 `Android Dev` `Android Studio` `C++` 
 `UI/UX Dev` `Adobe XD` `NodeJS`
 
-### Stats
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelesimone&theme=dracula)](https://github.com/samuelesimone/github-readme-stats)
 
 <hr>
 <p align="center">
