@@ -4,7 +4,7 @@
 ### Bio
 * Mobile Dev
 * Keen on UI/UX
-* BSc Computer Science 
+* MSc Computer Science 
 > Currently into **iOS Apps** & **AI**
 
 ### Contact
