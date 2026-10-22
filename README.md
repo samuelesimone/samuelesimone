@@ -5,7 +5,7 @@
 * Mobile Dev
 * Keen on UI/UX
 * MSc Computer Science 
-> Currently into **iOS Apps** & **AI**
+> Currently CS PhD Candidate @ University of Milan
 
 ### Contact
 * samuelesimonedev@gmail.com
